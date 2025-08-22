@@ -2,7 +2,6 @@
 
 **A powerful, streamlined tool for fine-tuning Stable Diffusion XL (SDXL) models using Low-Rank Adaptation (LoRA). Built with Python, TypeScript, and modern AI libraries, this project empowers developers to create customized, high-quality generative AI models with minimal resources.**
 
-![Sample Output](sample_images/sample_output.png)
 
 ---
 
@@ -50,3 +49,4 @@ Clone the repository:
    git clone https://github.com/tunggharu7it/sdxl-lora-training.git
    cd sdxl-lora-training
   ```
+
